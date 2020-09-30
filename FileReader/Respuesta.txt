@@ -1,0 +1,4 @@
+Los resultados se relacionan en que en ambos, Estados Unidos se encuentra en el top 5.
+Esto muestra cierta relación entre los países con mayor población y emisión de gases
+de efecto invernadero. La relación es: A mayor población, mayor emisión de gases de 
+efecto invernadero.
